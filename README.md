@@ -1,4 +1,4 @@
-# PROJE ODEVI
+# PROJE 
 
 - Java programlama dili
 - Maven projesi
